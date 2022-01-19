@@ -6,5 +6,6 @@ public class Program{
         //printable.print();      //  Java. Complete Reference (H. Shildt)
         //printable = new Journal("Foreign Policy");
         //printable.print();      // Foreign Policy
+        //
     }
 }
